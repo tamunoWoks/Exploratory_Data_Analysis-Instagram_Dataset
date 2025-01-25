@@ -15,3 +15,13 @@ Below are all the features in the data:
 11. Follows: Number of Follows from the post
 12. Caption: Caption of the post
 13. Hashtags: Hashtags used in the post
+
+Steps taken:
+- Import necessary libraries.
+- Load and overview data
+- View column info of dataset
+- View descriptive statistics of dataset
+- Check data for inconsistencies (null values)
+- Create a histogram for the 'Impressions' column
+- Create a line plot showing trend of impressions over time.
+    - The dataset doesn’t explicitly have a time-based column (e.g., a date or timestamp). Hence I used the row index (data.index) as the             x-axis. In other use cases, this might not be meaningful unless the rows are ordered chronologically.
