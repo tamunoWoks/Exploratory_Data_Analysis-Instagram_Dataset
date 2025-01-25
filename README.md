@@ -41,3 +41,7 @@ Steps taken:
 - Create a correlation matrix heatmap to visualize the relationships (correlations) between different numerical features in your dataset.
 - Create a bar chart that visualizes the distribution of the top 25 hashtags used in the Instagram posts.
 - Create two bar charts to visualize the distribution of top 25 Likes and Impressions for each hashtag used.
+
+## Constraints
+- Captions were too long, so it was not impossible to make visalizations about them.
+- There was no timestamp or date column, therefore we were limited and couldn't make Time-based analysis
