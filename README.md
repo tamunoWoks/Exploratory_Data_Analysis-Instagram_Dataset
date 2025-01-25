@@ -32,3 +32,5 @@ Steps taken:
     - In other use cases, this might not be meaningful unless the rows are ordered chronologically.
 - Create a multi-line plot that shows the trends of Likes, Saves, and Follows over time.
     - Once again, I use the row index (data.index) as the x-axis.
+- Create a pie chart that visualizes the distribution of reach (impressions) from different sources: From Home, From Hashtags, From Explore, and From Other.
+- Create a pie chart that visualizes the distribution of engagement metrics: Saves, Comments, Shares, and Likes.
