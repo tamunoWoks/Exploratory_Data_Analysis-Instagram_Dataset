@@ -35,3 +35,7 @@ Steps taken:
 - Create a pie chart that visualizes the distribution of reach (impressions) from different sources: From Home, From Hashtags, From Explore, and From Other.
 - Create a pie chart that visualizes the distribution of engagement metrics: Saves, Comments, Shares, and Likes.
 - Create a scatter plot with a trendline to visualize the relationship between Profile Visits and Follows.
+- Create a word cloud for the hashtags used in the Instagram posts.
+    - plotly.express (px) does not directly support creating word clouds. 
+    - The WordCloud library from wordcloud can be used to generate the word cloud and then display it using matplotlib.
+- Create a correlation matrix heatmap to visualize the relationships (correlations) between different numerical features in your dataset. 
