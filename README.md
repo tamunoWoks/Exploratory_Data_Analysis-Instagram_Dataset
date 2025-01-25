@@ -38,4 +38,6 @@ Steps taken:
 - Create a word cloud for the hashtags used in the Instagram posts.
     - plotly.express (px) does not directly support creating word clouds. 
     - The WordCloud library from wordcloud can be used to generate the word cloud and then display it using matplotlib.
-- Create a correlation matrix heatmap to visualize the relationships (correlations) between different numerical features in your dataset. 
+- Create a correlation matrix heatmap to visualize the relationships (correlations) between different numerical features in your dataset.
+- Create a bar chart that visualizes the distribution of the top 25 hashtags used in the Instagram posts.
+- Create two bar charts to visualize the distribution of top 25 Likes and Impressions for each hashtag used.
