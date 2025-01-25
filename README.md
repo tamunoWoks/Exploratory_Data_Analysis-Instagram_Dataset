@@ -30,3 +30,5 @@ Steps taken:
     - The dataset doesn’t explicitly have a time-based column (e.g., a date or timestamp).
     - Hence I used the row index (data.index) as the x-axis.
     - In other use cases, this might not be meaningful unless the rows are ordered chronologically.
+- Create a multi-line plot that shows the trends of Likes, Saves, and Follows over time.
+    - Once again, I use the row index (data.index) as the x-axis.
