@@ -39,8 +39,12 @@ Steps taken:
     - plotly.express (px) does not directly support creating word clouds. 
     - The WordCloud library from wordcloud can be used to generate the word cloud and then display it using matplotlib.
 - Create a correlation matrix heatmap to visualize the relationships (correlations) between different numerical features in your dataset.
+- Create a correlation matrix heatmap to xplore the relationships between different metrics (e.g., impressions, likes, comments, shares) to identify patterns.
 - Create a bar chart that visualizes the distribution of the top 25 hashtags used in the Instagram posts.
 - Create two bar charts to visualize the distribution of top 25 Likes and Impressions for each hashtag used.
+- Create a histogram to to analyze the sentiment of the captions (positive, negative, neutral), with the sentiment analysis library TextBlob.
+- Use a scatterplot to analyze the relationship between profile visits and new followers to understand how effectively profile visits convert into followers.
+- Use a scatterplot to analyze how the length of your captions (number of words or characters) affects engagement.
 
 ## Constraints
 - Captions were too long, so it was not impossible to make visalizations about them.
