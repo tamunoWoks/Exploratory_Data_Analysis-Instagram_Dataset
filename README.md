@@ -1,4 +1,4 @@
-# INSTAGRAM REACH ANALYSIS
+# Exploratory Data Analysis: Instagram Dataset
 Python EDA project using instagram data 
 
 Below are all the features in the data:
