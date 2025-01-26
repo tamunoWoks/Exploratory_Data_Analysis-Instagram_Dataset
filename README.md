@@ -29,7 +29,7 @@ The analysis is performed using Python, with visualizations created using Plotly
 ---
 
 ## Dataset Description
-The [dataset](https://statso.io/wp-content/uploads/2022/10/archive.zip) used was gotten from [Statso.io](https://statso.io/instagram-reach-analysis-case-study/).  
+The [dataset](https://github.com/tamunoWoks/Exploratory_Data_Analysis_Instagram_Dataset/blob/main/Instagram_data.csv) used was gotten from [Statso.io](https://statso.io/instagram-reach-analysis-case-study/).  
 
 The dataset contains the following columns:
 - **Impressions**: Total number of times the post was seen.
