@@ -131,7 +131,10 @@ The dataset contains the following columns:
 
 6. **Correlation between metrics**:
    ![Correlation between metrics](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/correlation_between_metrics.png)
-   
+
+7. **Like & Impression distributions for hashtags (top25)**:
+   ![Hashtag likes & impressions](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/likes_and_impression_per_hashtag.png)
+
 ---
 
 ## Key Insights
