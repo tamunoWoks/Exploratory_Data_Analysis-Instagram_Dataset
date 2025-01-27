@@ -122,7 +122,7 @@ Here are some of the visualizations created in this project:
    ![Source Contribution](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/engagement_sources.png)
 
 3. **Hashtag Performance**:
-   ![Hashtag Performance](images/hashtag_performance.png)
+   ![Hashtag Performance](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/Hashtag_distribution_top_25.png)
 
 4. **Engagement Rate Analysis**:
    ![Engagement Rate](images/engagement_rate.png)
