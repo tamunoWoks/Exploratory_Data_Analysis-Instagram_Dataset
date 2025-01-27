@@ -128,6 +128,10 @@ The dataset contains the following columns:
 
 5. **Correlation of numerical features**:
    ![Correlation of numerical features](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/correlation_matrix_for_numeric_features.png)
+
+6. **Correlation between metrics**:
+   ![Correlation between metrics](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/correlation_between_metrics.png)
+   
 ---
 
 ## Key Insights
