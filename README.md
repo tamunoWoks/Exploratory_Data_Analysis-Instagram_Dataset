@@ -115,8 +115,8 @@ The dataset contains the following columns:
 ## Visualizations
 Here are some of the visualizations created in this project:
 
-1. **Top 10 Posts by Engagement**:
-   ![Top 10 Posts by Engagement](images/top_engagement.png)
+1. **Impressions over time**:
+   ![Impressions over time](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/impressions_over_time.png)
 
 2. **Contribution of Sources to Impressions**:
    ![Source Contribution](images/source_contribution.png)
