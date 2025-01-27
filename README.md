@@ -137,6 +137,11 @@ The dataset contains the following columns:
 
 8. **Impression distributions for hashtags (top25)**:
    ![Hashtag likes impressions](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/Impression_distribution_per_hashtag.png)
+
+9. **Profile Visits vs. follows**:
+   ![Profile Visits vs. follows](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/profile_visits_vs_follows.png)
+
+10. 
 ---
 
 ## Key Insights
