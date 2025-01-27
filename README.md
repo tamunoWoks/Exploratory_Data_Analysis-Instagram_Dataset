@@ -119,7 +119,7 @@ Here are some of the visualizations created in this project:
    ![Impressions over time](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/impressions_over_time.png)
 
 2. **Contribution of Sources to Impressions**:
-   ![Source Contribution](images/source_contribution.png)
+   ![Source Contribution](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/engagement_sources.png)
 
 3. **Hashtag Performance**:
    ![Hashtag Performance](images/hashtag_performance.png)
