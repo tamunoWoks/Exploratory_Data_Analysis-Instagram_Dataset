@@ -88,7 +88,7 @@ The dataset contains the following columns:
     - Use it if you encounter a UnicodeDecodeError while reading the file.
 - View column info of dataset
 - View descriptive statistics of dataset
-- Check data for inconsistencies (null values)
+- Check data for inconsistencies (no null values were found)
 - Create a histogram for the 'Impressions' column
 - Create a line plot showing trend of impressions over time.
     - The dataset doesn’t explicitly have a time-based column (e.g., a date or timestamp).
