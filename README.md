@@ -113,6 +113,7 @@ The dataset contains the following columns:
 ---
 
 ## Visualizations
+
 1. **Impressions over time**:
    ![Impressions over time](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/impressions_over_time.png)
 
@@ -125,6 +126,8 @@ The dataset contains the following columns:
 4. **Source of Traffic analysis**:
    ![Traffic Source](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/reaches_by_source.png)
 
+5. **Correlation of numerical features**:
+   ![Correlation of numerical features](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/correlation_matrix_for_numeric_features.png)
 ---
 
 ## Key Insights
