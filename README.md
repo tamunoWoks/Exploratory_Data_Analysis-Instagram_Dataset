@@ -163,7 +163,7 @@ The dataset contains the following columns:
 
 6. **Correlations**:
    - Likes, Follows and impressions all have strong correlation.
-   - Comments have negative correlation with folloes and Impressions.
+   - Comments have negative correlation with follows and Impressions.
 
 ---
 
