@@ -146,9 +146,8 @@ The dataset contains the following columns:
 ---
 
 ## Key Insights
-1. **Engagement**:
-   - Posts with more likes tend to have higher comments and shares.
-   - The top 10 posts account for 40% of total engagement.
+1. **Sources of Engagement**:
+   - Majority of the engagement came from likes (50.6%), followed by Saves (44.7%).
 
 2. **Impressions**:
    - The majority of impressions come from the home feed, followed by hashtags and the Explore page.
@@ -159,8 +158,12 @@ The dataset contains the following columns:
 4. **Follower Growth**:
    - Posts with high profile visits tend to drive more new followers.
 
-5. **Sentiment**:
-   - Captions with positive sentiment tend to perform better in terms of engagement.
+5. **Captions**:
+   - Posts with shorter captions attract more interest.
+
+6. **Correlations**:
+   - Likes, Follows and impressions all have strong correlation.
+   - Comments have negative correlation with folloes and Impressions.
 
 ---
 
