@@ -142,7 +142,7 @@ The dataset contains the following columns:
    ![Profile Visits vs. follows](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/profile_visits_vs_follows.png)
 
 10. **Caption Length vs Impressions**:
-    ![Caption Length vs Impressions](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/caption_length_vs_engagements.png)
+    ![Caption Length vs Impressions](https://github.com/tamunoWoks/Exploratory_Data_Analysis-Instagram_Dataset/blob/main/visualizations/caption_length_vs_impressions.png)
 ---
 
 ## Key Insights
